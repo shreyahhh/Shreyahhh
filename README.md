@@ -1,7 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Shreya</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="coding" width="400" src="https://thelovepirate.net/2014/05/27/trailer-tuesday-big-hero-6/">
 
 - 🔭 I’m currently working on **WeForShe2024.**
 
@@ -23,5 +21,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyahhh&show_icons=true&locale=en&layout=compact" alt="shreyahhh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyahhh&show_icons=true&locale=en" alt="shreyahhh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyahhh&" alt="shreyahhh" /></p>
