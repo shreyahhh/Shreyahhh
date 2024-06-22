@@ -1,6 +1,7 @@
-[!Masterhead(https://images.app.goo.gl/ZVghHrNZX6ScBaKt6)](https://shreyahhh.io)
+
 <h1 align="center">Hi 👋, I'm Shreya</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/ZVghHrNZX6ScBaKt6">
 
 - 🔭 I’m currently working on **WeForShe2024.**
 
