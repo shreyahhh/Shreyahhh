@@ -1,4 +1,4 @@
-[!Masterhead(https://images.app.goo.gl/ZVghHrNZX6ScBaKt6)]
+[!Masterhead(https://images.app.goo.gl/ZVghHrNZX6ScBaKt6)](https://shreyahhh.io)
 <h1 align="center">Hi 👋, I'm Shreya</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
