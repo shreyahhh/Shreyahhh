@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shreya</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyahhh&label=Profile%20views&color=0e75b6&style=flat" alt="shreyahhh" /> </p>
+- 🔭 I’m currently working on **WeForShe2024.**
 
-- 🌱 I’m currently learning **AI/ML and other frameworks**
+- 🌱 I’m currently learning **AI/ML and other frameworks while practicing DSA on a daily basis.**
 
 - 📫 How to reach me **shreyyaaa36@gmail.com**
 
