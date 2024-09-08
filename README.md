@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreya</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🔭 I’m currently working on **WeForShe2024.**
+- 🔭 I’m currently working on **a research paper about multimodality.**
 
 - 🌱 I’m currently learning **AI/ML and other frameworks while practicing DSA on a daily basis.**
 
