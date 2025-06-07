@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shreya</h1>
+<h1 align="center">Hi, I'm Shreya</h1>
 <h3 align="center">A passionate Data Scientist and Product Developer from India</h3>
 
 <p align="center">
@@ -8,11 +8,10 @@
 ---
 
 ### 📌 Quick Facts
-- 🔭 Currently working on **a research paper on multimodality AI**
-- 🌱 Actively learning **AI/ML**, **full-stack frameworks**, and **DSA**
-- 💬 Ask me about **machine learning, full-stack projects, or data analysis**
-- 📫 Reach me at: **shreyyaaa36@gmail.com**
-- ⚡ Fun fact: **Weightlifting helps me debug better!**
+- Currently working on **a research paper on multimodality AI**
+- Actively learning **AI/ML**, **full-stack frameworks**, and **DSA**
+- Ask me about **machine learning, full-stack projects, or data analysis**
+- Reach me at: **shreyyaaa36@gmail.com**
 
 ---
 
@@ -81,7 +80,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
