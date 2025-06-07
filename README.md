@@ -44,7 +44,7 @@
 
 | Project Name | About |
 |--------------|-------|
-| [Ecosync](https://github.com/shreyahhh/Woodpecker2024-Demand-Forecasting-using-ARIMA-X-XGBOOST-HYBRID-MODEL) | National top 10 finalist (out of 45,000+ teams). Built a solar energy analytics platform with **React, TypeScript, XGBoost** to reduce household energy costs by 25%. |
+| [Ecosync](https://github.com/shreyahhh/Ecosync-Luminous-Top-10-Project) | National top 10 finalist (out of 45,000+ teams). Built a solar energy analytics platform with **React, TypeScript, XGBoost** to reduce household energy costs by 25%. |
 | [Swasth-Kheti](https://github.com/shreyahhh/Swasth-Kheti) | Built a plant disease detection system (Swin Transformer) and chatbot interface (Gemini AI). Handled 500+ daily queries with 97% accuracy. |
 | [Amazon Review Analyzer](https://github.com/shreyahhh/AmazonReviewAnalyser) | Analyzed review sentiment using Python/ML. Insights improved satisfaction scores by 15%. Research paper accepted by **Springer 2024**. |
 | [CalmCounsel Chatbot](https://github.com/shreyahhh/CalmCounsel-A-Therapy-Chatbot) | NLP-based chatbot using **NLTK, fuzzywuzzy**, and sentiment analysis. Scaled to handle 1000+ unique user queries with 90% intent match accuracy. |
