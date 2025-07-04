@@ -7,7 +7,7 @@
 - Currently working on **a research paper on multimodality AI**
 - Actively learning **AI/ML**, **full-stack frameworks**, and **DSA**
 - Ask me about **machine learning, full-stack projects, or data analysis**
-- Reach me at: **shreyyaaa36@gmail.com**
+- Reach me at: **shreyyaaa369@gmail.com**
 
 ---
 
