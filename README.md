@@ -89,10 +89,8 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyahhh&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyahhh&" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyahhh&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="shreyahhh's top languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyahhh&show_icons=true&locale=en&theme=vision-friendly-dark&rank_icon=github" alt="shreyahhh's github stats" />
 </p>
